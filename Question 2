@@ -1,0 +1,5 @@
+total_purchase = float(input("Enter your total purchase amount: "))
+if total_purchase > 100: 
+    print("You get a discount!") 
+else: 
+    print("No discount to be claim.")
